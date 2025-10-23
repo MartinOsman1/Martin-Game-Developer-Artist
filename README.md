@@ -1,11 +1,11 @@
-# 🎮 Martin — Solo Game Developer & Cinematic Artist
+#  Martin — Solo Game Developer & Cinematic Artist
 
 Welcome to my portfolio repository.  
 This space showcases my personal projects, experiments, and learning journey in the world of **game development** and **real-time cinematics**.
 
 ---
 
-## ✨ About Me
+##  About Me
 
 I'm a **solo game developer** passionate about building immersive, story-driven, and visually engaging experiences.  
 My main focus is **Unreal Engine**, though I also work hands-on with **Unity**, exploring the creative and technical sides of interactive media.
@@ -13,15 +13,15 @@ My main focus is **Unreal Engine**, though I also work hands-on with **Unity**, 
 I’m constantly experimenting and learning — diving into new tools, workflows, and creative extensions to expand my craft.  
 Some of the tools I regularly use include:
 
-- 🎮 **Engines:** Unreal Engine, Unity  
-- 🧠 **3D / VFX:** Blender, Houdini  
-- 🎨 **Design & Art:** Adobe Creative Suite (Photoshop, Substance, Illustrator, etc.)  
-- 🎬 **Editing & Grading:** DaVinci Resolve  
-- 🧩 **Other Tools:** various plug-ins, asset packs, and procedural toolchains for faster prototyping and better visuals  
+- **Engines:** Unreal Engine, Unity  
+- **3D / VFX:** Blender, Houdini  
+- **Design & Art:** Adobe Creative Suite (Photoshop, Substance, Illustrator, etc.)  
+- **Editing & Grading:** DaVinci Resolve  
+- **Other Tools:** various plug-ins, asset packs, and procedural toolchains for faster prototyping and better visuals  
 
 ---
 
-## 🧱 About This Repository
+##  About This Repository
 
 This repository documents my **ongoing journey** in the gaming and cinematic art industries — from technical exploration to creative direction.  
 It contains:
@@ -35,7 +35,7 @@ It contains:
 
 ---
 
-## ⚖️ Legal & Credits Notice
+##  Legal & Credits Notice
 
 - This repository and all included works are shared **for educational and portfolio purposes only**.  
 - I do **not claim ownership** of any third-party assets, characters, environments, or animations that were sourced from licensed courses, asset packs, or libraries.  
@@ -45,12 +45,12 @@ It contains:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 If you’d like to connect or collaborate:  
-- 🌐 Portfolio Page: [link to your GitHub Pages site once live]  
-- 📧 Email: [martinosman7@gmail.com]  
-- 💼 LinkedIn / ArtStation / Instagram: [optional links]
+-  Portfolio Page: https://www.instagram.com/ossmangames/
+-  Email: martinosman7@gmail.com
+-  LinkedIn:  www.linkedin.com/in/martin-osman-747b50329
 
 ---
 
